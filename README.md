@@ -1,4 +1,4 @@
-
+[![Build Status](https://jdpavek.visualstudio.com/DevOps%20Testing/_apis/build/status/jdpavek.pipelines-java?branchName=master)](https://jdpavek.visualstudio.com/DevOps%20Testing/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
